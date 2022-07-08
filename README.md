@@ -40,7 +40,7 @@ See the [documentation](docs/SeaportDocumentation.md), the [interface](contracts
 <th>ConduitController</th>
 </tr>
 
-<tr><td>Ethereum</td><td rowspan="13">
+<tr><td>Ethereum</td><td rowspa="13">
 
 [0x00000000006c3852cbEf3e08E8dF289169EdE581](https://etherscan.io/address/0x00000000006c3852cbEf3e08E8dF289169EdE581#code)
 
